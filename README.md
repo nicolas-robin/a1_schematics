@@ -1,0 +1,1 @@
+This repository contains the schematics of the Apple 1, drawn from the official schematic found in the manual.
